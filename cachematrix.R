@@ -1,4 +1,9 @@
-## Functions to compute and cache inverse matrix computation
+## Functions to compute and cache inverse of matrices.
+##  makeCacheMatrix provides a list of functions to set and get 
+##    the input matrix and its inverse.
+##  cacheSolve compute the inverse and caches the result for use
+##    in future calls.
+
 
 ## Create a list of functions to get, set the input matrix, and 
 ##    get, set its inverse
